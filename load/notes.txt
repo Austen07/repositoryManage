@@ -1,2 +1,0 @@
-multiple process can talk with each other
-redis adapter
